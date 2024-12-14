@@ -306,6 +306,14 @@
                             <attribute id="MapValue" type="FixedString" value="3377f864-f7f3-4c0a-b262-0a1ae3c53a39" />
                             </node>
                         <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_B.ELF_F_NKD_Head_B_Mesh.0" />
+							<attribute id="MapValue" type="FixedString" value="eeaa63e6-4baf-457c-96b4-60eb638b068e" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_B.ELF_F_NKD_Head_B_Ears_Mesh.3" />
+                            <attribute id="MapValue" type="FixedString" value="eeaa63e6-4baf-457c-96b4-60eb638b068e" />
+                            </node>
+                        <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_D.ELF_F_NKD_Head_D_Mesh.0" />
                             <attribute id="MapValue" type="FixedString" value="65a59b2e-22f6-4857-9f6c-cbbcb2fd6a57" />
                             </node>
