@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="TextureBank">
+		<node id="TextureBank">
+			<children>
+			<!-- Drow -->
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="VARIETY_DROW_Tattoos" /> 
+					<attribute id="ID" type="FixedString" value="0b86dfbf-188e-4e01-a9f8-ab1ffd8drow" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DROW/TATTOO/VARIETY_DROW_Tattoos.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="4096" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>	
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="VARIETY_DROW_Makeup" /> 
+					<attribute id="ID" type="FixedString" value="6ec9f849-09b5-45b5-869c-be52426drow" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/DROW/MAKEUP/VARIETY_DROW_Makeup.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="4096" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+			<!-- Tiefling -->
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="VARIETY_TIEFLING_Tattoos" /> 
+					<attribute id="ID" type="FixedString" value="0b86dfbf-188e-4e01-a9f8-ab1ffd8tief" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/TATTOO/VARIETY_TIEFLING_Tattoos.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="4096" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>	
+				<node id="Resource"> 
+					<attribute id="Name" type="LSString" value="VARIETY_TIEFLING_Makeup" /> 
+					<attribute id="ID" type="FixedString" value="6ec9f849-09b5-45b5-869c-be52426tief" /> 
+					<attribute id="SourceFile" type="LSString" value="Generated/Public/Variety_Framework/TIEFLING/MAKEUP/VARIETY_TIEFLING_Makeup.dds" /> 
+					<attribute id="Format" type="uint32" value="64" /> 
+					<attribute id="Width" type="int32" value="4096" /> 
+					<attribute id="Height" type="int32" value="4096" />				
+					<attribute id="Depth" type="int32" value="1" />
+					<attribute id="Localized" type="bool" value="False" />
+					<attribute id="SRGB" type="bool" value="False" /> 
+					<attribute id="Streaming" type="bool" value="True" />
+					<attribute id="Template" type="FixedString" value="" />
+					<attribute id="Type" type="int32" value="1" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
