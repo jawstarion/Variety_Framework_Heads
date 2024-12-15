@@ -445,7 +445,7 @@
                             <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_D.ELF_F_NKD_Head_D_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="0a8cc670-943a-4e82-aecf-83fa3b0e41cd" />
                             </node>	
-				<!-- Head E-->
+				<!-- Head E -->
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_E.ELF_F_NKD_Head_E_Mesh.0" />
                             <attribute id="MapValue" type="FixedString" value="dd7e7b0d-530e-4180-99ab-21c6d4f0ab26" />
@@ -481,6 +481,43 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_E.ELF_F_NKD_Head_E_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="0e66583a-e71a-499c-85e4-253e5e1457b3" />
+                            </node>	
+					<!-- Head F -->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="a4a0bb41-4927-4472-83b9-7c05b4c5d54c" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Ears_Mesh.3" />
+							<attribute id="MapValue" type="FixedString" value="a4a0bb41-4927-4472-83b9-7c05b4c5d54c" />
+                                </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Mesh_LOD1.8" />
+							<attribute id="MapValue" type="FixedString" value="9c3de6c2-18b4-4a0f-a1bd-dd41563b6471" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Ears_Mesh_LOD1.9" />
+                            <attribute id="MapValue" type="FixedString" value="9c3de6c2-18b4-4a0f-a1bd-dd41563b6471" />
+                            </node>	
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Mesh_LOD2.11" />
+							<attribute id="MapValue" type="FixedString" value="f3c77274-6df8-4c38-8af3-8c333a022ede" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Ears_Mesh_LOD2.12" />
+                            <attribute id="MapValue" type="FixedString" value="f3c77274-6df8-4c38-8af3-8c333a022ede" />
+                            </node>
+                        <node id="Object">
+							<attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Mesh_LOD3.14" />
+							<attribute id="MapValue" type="FixedString" value="f3c77274-6df8-4c38-8af3-8c333a022ede" />
+                        </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Ears_Mesh_LOD3.15" />
+                            <attribute id="MapValue" type="FixedString" value="f3c77274-6df8-4c38-8af3-8c333a022ede" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_F.ELF_F_NKD_Head_F_Mesh_LOD4.16" />
+                            <attribute id="MapValue" type="FixedString" value="6f6302fd-789a-4626-b0f1-2aea283d8a78" />
                             </node>	
                             </children>
                         </node>
