@@ -444,7 +444,16 @@
                         <node id="Object">
                             <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_D.ELF_F_NKD_Head_D_Mesh_LOD4.16" />
                             <attribute id="MapValue" type="FixedString" value="0a8cc670-943a-4e82-aecf-83fa3b0e41cd" />
-                            </node>		
+                            </node>	
+				<!-- Head E-->
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_E.ELF_F_NKD_Head_E_Mesh.0" />
+                            <attribute id="MapValue" type="FixedString" value="dd7e7b0d-530e-4180-99ab-21c6d4f0ab26" />
+                            </node>
+                        <node id="Object">
+                            <attribute id="MapKey" type="FixedString" value="ELF_F_NKD_Head_E.ELF_F_NKD_Head_E_Ears_Mesh.3" />
+							<attribute id="MapValue" type="FixedString" value="dd7e7b0d-530e-4180-99ab-21c6d4f0ab26" />
+                                </node>	
                             </children>
                         </node>
 						<node id="Slots">
